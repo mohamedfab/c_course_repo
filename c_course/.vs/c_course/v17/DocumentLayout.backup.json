@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mo7am\\Desktop\\c_course_repo\\c_course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2829016F-D93F-4479-8C63-B5BF160BD300}|Ch(02)\\Ch(02).vcxproj|C:\\Users\\mo7am\\Desktop\\c_course_repo\\c_course\\Ch(02)\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2829016F-D93F-4479-8C63-B5BF160BD300}|Ch(02)\\Ch(02).vcxproj|solutionrelative:Ch(02)\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06D6211-6AB6-4B82-9E66-BF7AD717D50D}|Ch(01)\\Ch(01).vcxproj|C:\\Users\\mo7am\\Desktop\\c_course_repo\\c_course\\Ch(01)\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E06D6211-6AB6-4B82-9E66-BF7AD717D50D}|Ch(01)\\Ch(01).vcxproj|solutionrelative:Ch(01)\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\mo7am\\Desktop\\c_course_repo\\c_course\\Ch(02)\\main.c",
+              "RelativeDocumentMoniker": "Ch(02)\\main.c",
+              "ToolTip": "C:\\Users\\mo7am\\Desktop\\c_course_repo\\c_course\\Ch(02)\\main.c",
+              "RelativeToolTip": "Ch(02)\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-31T20:34:11.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\mo7am\\Desktop\\c_course_repo\\c_course\\Ch(01)\\main.c",
+              "RelativeDocumentMoniker": "Ch(01)\\main.c",
+              "ToolTip": "C:\\Users\\mo7am\\Desktop\\c_course_repo\\c_course\\Ch(01)\\main.c",
+              "RelativeToolTip": "Ch(01)\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-31T20:32:40.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
